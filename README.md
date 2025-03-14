@@ -37,7 +37,7 @@ jupyter notebook notebooks/Agentmodel.ipynb
 ```
 Modify the model parameters in the notebook to experiment with different agent behaviors and trading conditions.
 
-File Structure
+### File Structure
 ```
 📦 Agent-Based-Trading-Model
  ┣ 📂 data/                  # (Optional) Store sample datasets or results
@@ -48,18 +48,18 @@ File Structure
  ┣ 📜 LICENSE                # Open-source license (MIT recommended)
  ┣ 📜 .gitignore             # Ignore unnecessary files
 ```
-Example Results
+### Example Results
 
 (Include a plot or table from your model’s output here!)
 
-Contributing
+### Contributing
 
 Pull requests are welcome! For major changes, please open an issue first to discuss proposed modifications.
 
-License
+### License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-Contact
+### Contact
 
 👤 Your Name📧 Email: Lucq01@gmail.com 🔗 GitHub: github.com/slyluc
