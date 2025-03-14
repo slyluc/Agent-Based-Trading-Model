@@ -50,7 +50,8 @@ Modify the model parameters in the notebook to experiment with different agent b
 ```
 ### Example Results
 
-(Include a plot or table from your model’s output here!)
+[![image](https://github.com/user-attachments/assets/c8be37c5-f26c-45d0-8369-9e9dc3ff1300)](https://github.com/slyluc/Agent-Based-Trading-Model/blob/main/Data/50%25%20Greed.png)
+
 
 ### Contributing
 
