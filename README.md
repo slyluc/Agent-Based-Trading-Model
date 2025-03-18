@@ -40,8 +40,9 @@ Modify the model parameters in the notebook to experiment with different agent b
 ### File Structure
 ```
 📦 Agent-Based-Trading-Model
- ┣ 📂 data/                  # (Optional) Store sample datasets or results
- ┣ 📂 notebooks/             # Store Jupyter Notebooks
+ ┣ 📂 data/                  # Stores sample datasets or results
+ ┣ 📂 figures/               # Stores figures produced from simulation
+ ┣ 📂 notebooks/             # Stores Jupyter Notebooks
  ┣ 📂 src/                   # Python scripts
  ┣ 📜 README.md              # Project description and setup guide
  ┣ 📜 requirements.txt       # Dependencies list
