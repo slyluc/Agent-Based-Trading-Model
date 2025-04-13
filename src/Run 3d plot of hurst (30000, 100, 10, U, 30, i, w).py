@@ -44,7 +44,7 @@ surf1 = ax.plot_surface(U_grid, sigma_grid, Z_hurst, cmap="viridis", alpha=0.8, 
 ax.set_xlabel("U")
 ax.set_ylabel(r"$\sigma$")
 ax.set_zlabel("Value")
-ax.set_title("3D Surface Plot: U vs Sigma vs Average Hurst & Fraction Need")
+ax.set_title(r"3D Surface Plot: U vs $\sigma$ vs Average Hurst & Fraction Need")
 ax.set_zlim(0,1.1)
 # Add color bars for each surface. Note that having two colorbars in one plot is acceptable,
 # but you might consider adjusting the positions if needed.
