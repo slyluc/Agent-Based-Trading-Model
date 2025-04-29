@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 from mpl_toolkits.mplot3d import Axes3D  # Ensure 3D plotting support
 
 # --- Load the CSV Data ---
-df = pd.read_csv("../Data/simulation_results1820runsVECTORIZED5.csv")
+df = pd.read_csv("../Data/simulation_results1820runsVECTORIZED4.csv")
 
 # --- Average over the 10 runs ---
 # Group by U_value and sigma_value and compute the mean for hurst_exponent and fraction_need.
