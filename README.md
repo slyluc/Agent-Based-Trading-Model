@@ -66,4 +66,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ### Contact
 
-👤 Your Name📧 Email: Lucq01@gmail.com 🔗 GitHub: github.com/slyluc
+👤 Luc Holme Qvistgaard📧 Email: Lucq01@gmail.com 🔗 GitHub: github.com/slyluc
