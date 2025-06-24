@@ -44,7 +44,7 @@ Modify the model parameters in the notebook to experiment with different agent b
  ┣ 📂 figures/                              # Stores figures produced from simulation
  ┣ 📂 notebooks/                            # Stores Jupyter Notebooks
  ┣ 📂 src/                                  # Python scripts
- ┣ 📜 Bachelor in Physics by Luc.pdf        # Open-source license (MIT recommended)Bachelor in Physics by Luc.pdf
+ ┣ 📜 Bachelor in Physics by Luc.pdf        # Final bachelors project PDF - recommended reading
  ┣ 📜 README.md                             # Project description and setup guide
  ┣ 📜 requirements.txt                      # Dependencies list
  ┣ 📜 LICENSE                               # Open-source license (MIT recommended)
