@@ -40,14 +40,15 @@ Modify the model parameters in the notebook to experiment with different agent b
 ### File Structure
 ```
 📦 Agent-Based-Trading-Model
- ┣ 📂 data/                  # Stores sample datasets or results
- ┣ 📂 figures/               # Stores figures produced from simulation
- ┣ 📂 notebooks/             # Stores Jupyter Notebooks
- ┣ 📂 src/                   # Python scripts
- ┣ 📜 README.md              # Project description and setup guide
- ┣ 📜 requirements.txt       # Dependencies list
- ┣ 📜 LICENSE                # Open-source license (MIT recommended)
- ┣ 📜 .gitignore             # Ignore unnecessary files
+ ┣ 📂 data/                                 # Stores sample datasets or results
+ ┣ 📂 figures/                              # Stores figures produced from simulation
+ ┣ 📂 notebooks/                            # Stores Jupyter Notebooks
+ ┣ 📂 src/                                  # Python scripts
+ ┣ 📜 Bachelor in Physics by Luc.pdf        # Final bachelors project PDF - recommended reading
+ ┣ 📜 README.md                             # Project description and setup guide
+ ┣ 📜 requirements.txt                      # Dependencies list
+ ┣ 📜 LICENSE                               # Open-source license (MIT recommended)
+ ┣ 📜 .gitignore                            # Ignore unnecessary files
 ```
 ### Example Results
 
@@ -65,4 +66,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ### Contact
 
-👤 Your Name📧 Email: Lucq01@gmail.com 🔗 GitHub: github.com/slyluc
+👤 Luc Holme Qvistgaard📧 Email: Lucq01@gmail.com 🔗 GitHub: github.com/slyluc
